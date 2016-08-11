@@ -31,7 +31,9 @@ This sample redacts text by replacing each <u>letter with an asterisk</u>. The _
 
 ## Configure the project
 
-Run the following commands from <span>your Bash shell at the</span> root of this project:
+Run the following commands from <span>your Bash shell at the</span>
+
+## root of this project:
 
 1.  Clone this repo to your local machine.
 2.  `npm install` to install all of the dependencies in package.json.
