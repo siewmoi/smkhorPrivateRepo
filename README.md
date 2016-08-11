@@ -47,9 +47,9 @@ Run the following commands from your Bash shell at the
 
 Now you need to let Microsoft Word know where to find the add-in.
 
-|   |   |   |   |   |
+| F1 | F2 | F3 | F4 | F5 |
 | --- | --- | --- | --- | --- |
-|   |   |   |   |   |
+| aa | sg | ad | ad | aa |
 
 1.  Create a network share, or [share a folder to the network](https://technet.microsoft.com/en-us/library/cc770880.aspx) and place the [word-add-in-javascript-speckit-manifest.xml](word-add-in-javascript-speckit-manifest.xml) manifest file in it.
 2.  Launch Word and open a document.
