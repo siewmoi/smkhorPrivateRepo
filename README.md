@@ -51,6 +51,8 @@ Now you need to let Microsoft Word know where to find the add-in.
 | --- | --- | --- | --- | --- |
 | aa | sg | ad | ad | aa |
 
+[![Title: images/image1470956922481.Jpeg](https://raw.githubusercontent.com/siewmoi/smkhorPrivateRepo/master/images/image1470956922481.Jpeg)](https://raw.githubusercontent.com/siewmoi/smkhorPrivateRepo/master/images/image1470956922481.Jpeg)
+
 1.  Create a network share, or [share a folder to the network](https://technet.microsoft.com/en-us/library/cc770880.aspx) and place the [word-add-in-javascript-speckit-manifest.xml](word-add-in-javascript-speckit-manifest.xml) manifest file in it.
 2.  Launch Word and open a document.
 3.  Choose the **File** tab, and then choose **Options**.
