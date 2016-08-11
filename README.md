@@ -72,6 +72,12 @@ On the Ribbon:
 
 Note: The add-in will load in a task pane if add-in commands are not supported by your version of Word.
 
+*   Item1
+
+ *   Item2
+
+*   Item3
+
 ### Task pane UI
 
 On the task pane, you can:
