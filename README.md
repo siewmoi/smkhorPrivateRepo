@@ -58,7 +58,13 @@ Now you need to let Microsoft Word know where to find the add-in.
 5.  Choose **Trusted Add-ins Catalogs**.
 6.  In the **Catalog Url** field, enter the network path to the folder share that contains word-add-in-js-redact-manifest.xml, and then choose **Add Catalog**.
 7.  Select the **Show in Menu** check box, and then choose **OK**.
-8.  A message is displayed to inform you that your settings will be applied the next time you start Microsoft Office. Close and restart Word.
+
+<div style="background: white; border-width: medium medium medium 2.25pt; border-style: none none none solid; border-color: currentColor currentColor currentColor rgb(108, 226, 108); padding: 0in; border-image: none; margin-right: 0in; margin-left: -0.25in;">
+
+1.<span></span> A message is displayed to inform you that your settings will be applied the next time you start  
+
+
+1.  Microsoft Office. Close and restart Word.
 
 ## Run the project
 
