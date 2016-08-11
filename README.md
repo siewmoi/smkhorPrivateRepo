@@ -78,6 +78,12 @@ Note: The add-in will load in a task pane if add-in commands are not supported b
 
 *   Item3
 
+1.  Item1
+
+ 1.  Item2
+
+2.  Item3
+
 ### Task pane UI
 
 On the task pane, you can:
