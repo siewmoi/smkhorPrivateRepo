@@ -21,7 +21,7 @@ July 25, 2016:
 
 ## Important note
 
-This sample redacts text by replacing each <u>letter with an asterisk</u>. The _layout is not preserve_ as such. No measurement and calculation is done to determine font, size, or formatting of each letter.
+This sample redacts text by replacing each letter with an asterisk. The _layout is not preserve_ as such. No measurement and calculation is done to determine font, size, or formatting of each letter.
 
 ## Prerequisites
 
@@ -31,7 +31,7 @@ This sample redacts text by replacing each <u>letter with an asterisk</u>. The _
 
 ## Configure the project
 
-Run the following commands from <span>your Bash shell at the</span>
+Run the following commands from your Bash shell at the
 
 ## root of this project:
 
@@ -46,6 +46,10 @@ Run the following commands from <span>your Bash shell at the</span>
 9.  `npm start` to start the node web server service.
 
 Now you need to let Microsoft Word know where to find the add-in.
+
+|   |   |   |   |   |
+| --- | --- | --- | --- | --- |
+|   |   |   |   |   |
 
 1.  Create a network share, or [share a folder to the network](https://technet.microsoft.com/en-us/library/cc770880.aspx) and place the [word-add-in-javascript-speckit-manifest.xml](word-add-in-javascript-speckit-manifest.xml) manifest file in it.
 2.  Launch Word and open a document.
@@ -68,27 +72,29 @@ Now you need to let Microsoft Word know where to find the add-in.
 
 On the Ribbon:
 
-·<span></span> Select **Review** tab and choose **Show Redaction Task Pane** to launch the task pane.
+· Select **Review** tab and choose **Show Redaction Task Pane** to launch the task pane.
 
 Note: The add-in will load in a task pane if add-in commands are not supported by your version of Word.
 
-*   Item1
+·<span></span> Item1
 
  *   Item2
 
-*   Item3
+·<span></span> Item3
 
-1.  Item1
+1.     Item1
 
- 1.  Item2
+1.     Item2
 
- 1.  Aaaaa
- 2.  av
+2.     Aaaaa
 
- 3.  abc
- 4.  Item item
+3.     av
 
-2.  Item3
+4.     abc
+
+ 1.  Item item
+
+2.     Item3
 
 ### Task pane UI
 
