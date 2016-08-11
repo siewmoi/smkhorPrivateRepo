@@ -21,7 +21,7 @@ July 25, 2016:
 
 ## Important note
 
-This sample redacts text by replacing each letter with an asterisk. The _layout is not preserve_ as such. No measurement and calculation is done to determine font, size, or formatting of each letter.
+This sample redacts text by replacing each <u>letter with an asterisk</u>. The _layout is not preserve_ as such. No measurement and calculation is done to determine font, size, or formatting of each letter.
 
 ## Prerequisites
 
